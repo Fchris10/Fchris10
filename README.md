@@ -1,4 +1,4 @@
-My name is Christian Samuel Fernandez Rodriguez
+Hi✌️ My name is Christian Samuel Fernandez Rodriguez
 =====================================================
 
 I am a Computer Engineering student and what I am most passionate about are programming, engines (with a particular interest in motorbikes) and the systems/technologies that support them. My constant search for knowledge and determination to learn push me towards the ambition of creating video games, WebApps and studying artificial intelligence in depth.
