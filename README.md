@@ -5,7 +5,7 @@ I am a Computer Engineering student and what I am most passionate about are prog
 
 * 🌍  I'm based in Modena
 * ✉️  You can contact me at [christian.csfr@gmail.com](mailto:christian.csfr@gmail.com)
-* 🧠  I'm learning Java and Python
+* 🧠  I'm learning CyberSecurity
 
 <a href="https://www.github.com/Fchris10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fchris10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
